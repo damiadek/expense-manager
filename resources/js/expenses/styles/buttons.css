@@ -1,0 +1,8 @@
+.new-button {
+  border-radius: 15px;
+}
+.new-button:hover {
+  background: black;
+  color: white;
+  transition: all 1s;
+}
