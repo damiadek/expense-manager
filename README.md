@@ -1,8 +1,9 @@
-#expense-manager
+#expense-manager#
 
 This project was built using [Laravel]("https://www.laravel.com") and [ReactJS]("https://reactjs.org").
 
-##Running the Project
+##Running the Project##
+
 You should have [composer]("https://getcomposer.org) and [yarn]("https://yarnpkg.com")installed on your local system
 
 You can build the project locally by running the following commands in order
