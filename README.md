@@ -4,7 +4,7 @@ This project was built using [Laravel](https://www.laravel.com) and [ReactJS](ht
 
 ## Running the Project
 
-You should have [composer](https://getcomposer.org) and [yarn](https://yarnpkg.com) installed on your local system
+You should have [composer](https://getcomposer.org) and [yarn](https://yarnpkg.com) OR [npm](https://www.npmjs.org) installed on your local system
 
 You can build the project locally by running the following commands in order
 
@@ -20,11 +20,23 @@ You can build the project locally by running the following commands in order
     ```php
     yarn install
     ```
+    
+    ### OR
+    
+    ```php
+    npm install
+    ```
 
 -   Create MySQL database with credentials found in <code>.env</code> file
 
 -   Build React Components
 
+    ```php
+    yarn run dev
+    ```
+     
+    ### OR
+    
     ```php
     npm run dev
     ```
